@@ -4,7 +4,7 @@
 
 ## setup
 ##markdown: rdiscount # choose markdown engine
-##markdown: maruku
+markdown: maruku
 exclude: [.gitignore] # '_filename.ext' is also excluded
 permalink: /:categories/:year/:month/:day/:title/
 future: false         # don't publish blog posts for a future date
