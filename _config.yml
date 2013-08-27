@@ -3,8 +3,7 @@
 ## twitter meta (which isn't there yet).
 
 ## setup
-##markdown: rdiscount # choose markdown engine
-markdown: maruku
+markdown: rdiscount # choose markdown engine
 exclude: [.gitignore] # '_filename.ext' is also excluded
 permalink: /:categories/:year/:month/:day/:title/
 future: false         # don't publish blog posts for a future date
