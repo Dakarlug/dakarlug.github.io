@@ -1,4 +1,1 @@
-dakarlug.github.io
-==================
-
-The DakarLug Web Site
+My  Jekyll Boilerplate Web Site.
