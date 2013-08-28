@@ -3,7 +3,7 @@ layout: default
 name: test-post
 title: "Journée mondiale du logiciel libre à Dakar : rendez-vous le 20 septembre à l'AUF !"
 category: sample
-image: http://dakarlug.github.io/images/affiche/sfd2008-affiche-explications.png
+image: "http://dakarlug.github.io/images/affiche/sfd2008-affiche-explications.png"
 ---
 
 > écrit le 26 août 2008 par Thomas
