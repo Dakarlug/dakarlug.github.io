@@ -19,12 +19,13 @@ Workarounds:
     <span class="date">{{ post.date }}</span>
     </p>
 
- {% if post.image %}
+
+   <div class="content">
+    {% if post.image %}
  <p>
     <img src ="{{ post.image }}" />
  </p>
  {% endif %}
-   <div class="content">
     {{ post.content }}
   </div>
 {% endfor %}
