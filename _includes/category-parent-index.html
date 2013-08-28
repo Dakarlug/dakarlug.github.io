@@ -26,7 +26,7 @@ Workarounds:
     <img src ="{{ post.image }}" />
  </p>
  {% endif %}
-    {{ post.content }}
+    {{ post.content }} {{ page.tags | array_to_sentence_string }}
   </div>
 {% endfor %}
 
