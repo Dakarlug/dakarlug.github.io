@@ -2,9 +2,12 @@
 layout: default
 name: test-post
 title: Rencontre autour du Libre avec ModLibre Conférence et ateliers
-image: "http://dakarlug.github.io/images/affiche/sfd2008-affiche-explications.png"
+image: "sfd2008-affiche-explications.png"
 category: sample
 ---
+{{ page.title }}.
+
+![Image](https://raw.github.com/aliounedia/aliounedia.github.io/master/images/affiche/{{ page.image }})
 
 > écrit le 3 juin 2013 par stefano 
 
