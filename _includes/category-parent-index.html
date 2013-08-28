@@ -13,8 +13,24 @@ Workarounds:
 
 {% assign thisParent = page.parent %}
 
-<ol>
+<!--<ol>
   {% for post in site.categories[thisParent] %}
   <li><a href="/{{ post.url }}">{{ post.title }} <span class="archive-date">{{ post.date | date:"%B %d" }}</span></a></li>
   {% endfor %}
-</ol>
+</ol>-->
+{% for post in site.categories[thisParent] %}
+  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+    <p class="author">
+    <span class="date">{{ post.date }}</span>
+    </p>
+
+  <p>
+  {% if post.image %}
+    <img src ="{{ post.image }}" />
+  {% endif %}
+ </p>
+   <div class="content">
+    {{ post.content }}
+  </div>
+{% endfor %}
+
