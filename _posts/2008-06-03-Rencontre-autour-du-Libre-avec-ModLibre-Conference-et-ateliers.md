@@ -1,8 +1,7 @@
-
 ---
 layout: default
 name: test-post
-title: "Rencontre autour du Libre avec ModLibre : Conférence et ateliers"
+title: "Rencontre autour du Libre avec ModLibre Conférence et ateliers"
 category: sample
 image: "/images/affiche/sfd2008-affiche-explications.png"
 ---
