@@ -2,7 +2,7 @@
 layout: default
 name: test-post
 title: Rencontre autour du Libre avec ModLibre Conférence et ateliers
-image: http://dakarlug.github.io/images/affiche/sfd2008-affiche-explications.png
+image: dakarlug.github.io/images/affiche/sfd2008-affiche-explications.png
 category: sample
 ---
 
