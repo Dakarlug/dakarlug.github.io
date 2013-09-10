@@ -22,5 +22,5 @@ jqVersion: '1.9.1'
 
 ga: 'UA-' # google analytics site id
 
-paginate: 8
+paginate: 2
 paginate_path: "page:num"
