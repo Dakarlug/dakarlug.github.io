@@ -71,7 +71,15 @@
       <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://dakarlug.github.io/assets/ico/apple-touch-icon-72-precomposed.png">
                     <link rel="apple-touch-icon-precomposed" href="http://dakarlug.github.io/assets/ico/apple-touch-icon-57-precomposed.png">
                                    <link rel="shortcut icon" href="http://dakarlug.github.io/assets/ico/favicon.gif">
-  </head>
+  
+
+  <!-- load Galleria -->
+        <script src="galleria-1.2.9.min.js"></script>
+
+        <!-- load flickr plugin -->
+        <script src="galleria.flickr.min.js"></script>
+
+</head>
 
   <body>
 <style>
@@ -142,10 +150,31 @@
 			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 		</p>
-		<!--p>
-			<iframe align="center" src="http://www.flickr.com/slideShow/index.gne?group_id=&user_id=&set_id=&tags=dakarlug" frameBorder="0"  ></iframe><br/>
-			<small><a href="http://www.flickr.com/photos/dakarlug" title="flickrSLiDR">DakarLUG</a>.</small>
-		</p-->
+		<p>
+			
+			 <div id="galleria"></div>
+			 <p class="cred">Made by <a href="http://galleria.aino.se">Galleria</a>.</p>
+			 <script>
+
+    // Load the classic theme
+    Galleria.loadTheme('galleria.classic.min.js');
+
+    // Initialize Galleria
+    Galleria.run('#galleria', {
+
+        // search flickr for "galleria"
+        flickr: 'search:dakarlug',
+        
+        flickrOptions: {
+            // sort by interestingness
+            //sort: 'interestingness-desc'
+		 sort: 'date-posted-desc'
+        }
+    });
+    </script>
+
+
+		</p>
 	  </div>
 
 	  <div class="span6">
