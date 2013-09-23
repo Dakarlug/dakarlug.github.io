@@ -79,6 +79,26 @@
         <!-- load flickr plugin -->
         <script src="js/galleria.flickr.min.js"></script>
 
+
+<script>
+
+                      // Load the classic theme
+                      Galleria.loadTheme('js/galleria.classic.min.js');
+
+                      // Initialize Galleria
+                      Galleria.run('#galleria', {
+
+                          // search flickr for "galleria"
+                          flickr: 'search:dakarlug',
+                          
+                          flickrOptions: {
+                              // sort by interestingness
+                              //sort: 'interestingness-desc'
+                                   sort: 'date-posted-desc',
+                                   max: 5
+                          }
+                      });
+</script>
 </head>
 
   <body>
@@ -149,25 +169,7 @@
 
                     <div id="galleria"></div>
                     <p class="cred">Made by <a href="http://www.flickr.com/photos/dakarlug">DakarLug</a>.</p>
-                    <script>
-
-                      // Load the classic theme
-                      Galleria.loadTheme('js/galleria.classic.min.js');
-
-                      // Initialize Galleria
-                      Galleria.run('#galleria', {
-
-                          // search flickr for "galleria"
-                          flickr: 'search:dakarlug',
-                          
-                          flickrOptions: {
-                              // sort by interestingness
-                              //sort: 'interestingness-desc'
-                                   sort: 'date-posted-desc',
-                                   max: 5
-                          }
-                      });
-                    </script>
+                    
                     </div>           
               </div>
             <div class="span6">
