@@ -9,6 +9,38 @@
 
     <!-- Le styles -->
     <link href="http://dakarlug.github.io/assets/css/bootstrap.css" rel="stylesheet">
+    <link href="http://dakarlug.github.io/assets/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="../assets/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- start DakarNug stuff -->
+
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+    <!--script src="http://documentcloud.github.com/underscore/underscore.js"></script>
+    <script src="http://documentcloud.github.com/backbone/backbone.js"></script>            
+    <script type="text/javascript" src ="http://dakarlug.github.io/js/mustache.js"></script>
+    <script type="text/javascript" src ="http://dakarlug.github.io/js/require.js"></script>
+    <script type="text/javascript" src ="http://dakarlug.github.io/js/vimeo.js"></script-->
+
+    <!-- end   DakarNug stuff -->
+
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://dakarlug.github.io/assets/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://dakarlug.github.io/assets/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://dakarlug.github.io/assets/ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="http://dakarlug.github.io/assets/ico/apple-touch-icon-57-precomposed.png">
+                                   <link rel="shortcut icon" href="http://dakarlug.github.io/assets/ico/favicon.gif">
+  
+
+  <!-- load Galleria -->
+        <script src="http://dakarlug.github.io/js/galleria-1.2.9.min.js"></script>
+
+        <!-- load flickr plugin -->
+        <script src="http://dakarlug.github.io/js/galleria.flickr.min.js"></script>
     <style type="text/css">
       body {
         padding-top: 20px;
@@ -45,61 +77,13 @@
       .marketing p + h4 {
         margin-top: 28px;
       }
+	a {
+    	color: #333333;
+   	 text-decoration: none;
+    	font-weight: bold;
+   	 border-top: 0 none;
+	}
     </style>
-    <link href="http://dakarlug.github.io/assets/css/bootstrap-responsive.css" rel="stylesheet">
-
-    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-    <!--[if lt IE 9]>
-      <script src="../assets/js/html5shiv.js"></script>
-    <![endif]-->
-
-    <!-- start DakarNug stuff -->
-
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
-    <!--script src="http://documentcloud.github.com/underscore/underscore.js"></script>
-    <script src="http://documentcloud.github.com/backbone/backbone.js"></script>            
-    <script type="text/javascript" src ="http://dakarlug.github.io/js/mustache.js"></script>
-    <script type="text/javascript" src ="http://dakarlug.github.io/js/require.js"></script>
-    <script type="text/javascript" src ="http://dakarlug.github.io/js/vimeo.js"></script-->
-
-    <!-- end   DakarNug stuff -->
-
-
-    <!-- Fav and touch icons -->
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://dakarlug.github.io/assets/ico/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://dakarlug.github.io/assets/ico/apple-touch-icon-114-precomposed.png">
-      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://dakarlug.github.io/assets/ico/apple-touch-icon-72-precomposed.png">
-                    <link rel="apple-touch-icon-precomposed" href="http://dakarlug.github.io/assets/ico/apple-touch-icon-57-precomposed.png">
-                                   <link rel="shortcut icon" href="http://dakarlug.github.io/assets/ico/favicon.gif">
-  
-
-  <!-- load Galleria -->
-        <script src="http://dakarlug.github.io/js/galleria-1.2.9.min.js"></script>
-
-        <!-- load flickr plugin -->
-        <script src="http://dakarlug.github.io/js/galleria.flickr.min.js"></script>
-
-
-<script>
-
-                      // Load the classic theme
-                      Galleria.loadTheme('http://dakarlug.github.io/js/galleria.classic.min.js');
-
-                      // Initialize Galleria
-                      Galleria.run('#galleria', {
-
-                          // search flickr for "galleria"
-                          flickr: 'search:dakarlug',
-                          
-                          flickrOptions: {
-                              // sort by interestingness
-                              //sort: 'interestingness-desc'
-                                   sort: 'date-posted-desc',
-                                   max: 5
-                          }
-                      });
-</script>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </head>
 
   <body>
@@ -206,6 +190,27 @@
     <script src="../assets/js/bootstrap-collapse.js"></script>
     <script src="../assets/js/bootstrap-carousel.js"></script>
     <script src="../assets/js/bootstrap-typeahead.js"></script-->
+    <script>
+
+                      // Load the classic theme
+                      Galleria.loadTheme('http://dakarlug.github.io/js/galleria.classic.min.js');
+
+                      // Initialize Galleria
+                      Galleria.run('#galleria', {
+
+                          // search flickr for "galleria"
+                          flickr: 'search:dakarlug',
+                          
+                          flickrOptions: {
+                              // sort by interestingness
+                              //sort: 'interestingness-desc'
+                                   sort: 'date-posted-desc',
+                                   max: 5
+                          }
+                      });
+    </script>
+   <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
 
   </body>
 </html>
