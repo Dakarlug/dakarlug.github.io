@@ -1,6 +1,6 @@
 
  Petit bilan de l’après-midi Linux et logiciels libres du 17 janvier 2009
-[![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/p1010461-150x150.jpg "")](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf)
+* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/p1010461-150x150.jpg "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf "").
     
       La première « après-midi Linux et logiciels libres » de 2009 a
 réunit plus d’une centaine des personnes intéressées par le monde du

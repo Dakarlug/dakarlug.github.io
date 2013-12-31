@@ -1,6 +1,6 @@
 
  Python African Tour, étape Sénégalaise
-[![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/pat-logo.png "")](https://raw.github.com/Dakarlug/site-datas/master/datas/python-african-tour-senegal.pdf)
+* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/pat-logo.png "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/python-african-tour-senegal.pdf "").
     
        C’est officiel, on ne peut plus reculer : DakarLUG sera au cœur de l’organisation de l’étape sénégalaise du Python African Tour.
 Il s’agit d’une semaine consacrée à ce langage de programmation, avec

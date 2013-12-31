@@ -1,6 +1,6 @@
 
  Après-midi Linux : samedi 18 avril 2009
-[![alt](https://github.com/Dakarlug/scrapper/reddit.png "")](https://github.com/Dakarlug/scrapper/pdf)
+[![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/reddit.png "")](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf)
     
       Ca se confirme jour après jour : la prochaine après-midi Linux
 organisée par DakarLUG aura très certainement lieu le samedi 18 avril

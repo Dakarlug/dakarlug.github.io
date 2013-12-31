@@ -1,6 +1,6 @@
 
  libre-design
-[![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/libredesign.png "")](https://raw.github.com/Dakarlug/site-datas/master/datas/libredesign.pdf)
+* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/libredesign.png "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/libredesign.pdf "").
     
       Dakar — 4 juin 2011, 9h à 18h — Logiciels libres et Arts numériques
 

@@ -1,6 +1,6 @@
 
  Bilan des journées de la francophonie sur les logiciels-libres
-[![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/reddit.png "")](https://raw.github.com/Dakarlug/site-datas/master/datas/Joomla_DakarLug.presentation_latex.LogicielLibreEntreprise.Presentation_Modeles_Economique_Logicilel_Libre.pdf)
+* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/reddit.png "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/Joomla_DakarLug.presentation_latex.LogicielLibreEntreprise.Presentation_Modeles_Economique_Logicilel_Libre.pdf "").
     
       Le vendredi 11 et le samedi 12 mars dernier, le Campus numérique francophone de l’AUF à Dakar a réuni, sur les deux (2) jours une centaine de personnes dans le cadre du lancement des activités de l’Agence pour la quinzaine de la Francophonie. 
 

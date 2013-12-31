@@ -1,6 +1,6 @@
 
  Rendez-vous ce 18 avril
-[![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/affiche-apres-midi-linux-18-avril-2009.png "")](https://raw.github.com/Dakarlug/site-datas/master/datas/affiche-apres-midi-linux-18-avril-2009.pdf)
+* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/affiche-apres-midi-linux-18-avril-2009.png "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/affiche-apres-midi-linux-18-avril-2009.pdf "").
     
       C’est confirmé : la prochaine après-midi Linux organisée par DakarLUG aura lieu ce samedi 18 avril 2009, de 13h à 18h à l’AUF. Au programme :à partir de 13h : une présentation de DakarLUG.
 Après tout, on ne s’est jamais vraiment présenté ! Les membres actifs

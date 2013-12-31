@@ -1,6 +1,6 @@
 
  « Après-midi Linux » le 20 mars 2010
-![test screenshot](http://blog.dakarlug.org/media/20mars10/20mars-miniature.png "")
+* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/20mars-miniature.png "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/20mars.pdf "").
     
       Cliquez sur l’affichepour l’obtenir en format PDF
 

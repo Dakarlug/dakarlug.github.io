@@ -1,6 +1,6 @@
 
  Ubuntu install party(13/06/2009)
-[![alt](https://github.com/Dakarlug/scrapper/install_party_13install_party_13.pdf.png "")](https://github.com/Dakarlug/scrapper/pdf)
+[![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/install_party_13install_party_13.pdf.png "")](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf)
     
       
 

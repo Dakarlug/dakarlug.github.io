@@ -1,6 +1,6 @@
 
  Quelques nouvelles pas toutes neuves
-[![alt](https://github.com/Dakarlug/scrapper/reddit.png "")](https://github.com/Dakarlug/scrapper/pdf)
+[![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/reddit.png "")](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf)
     
       Un petit résumé de ce qui se passe actuellement sur la liste de discussion, le forum et le wiki :une petite séance de prise en main Ubuntu est programmée ce jeudi 12 février, cliquez ici pour découvrir le programme et comment vous y inscrire (jusqu’à mercredi soir…)le matin du jeudi 26 février (9h-13h) se tiendra à
 l’Agence universitaire de la Francophonie (AUF) une présentation
