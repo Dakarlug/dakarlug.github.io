@@ -1,6 +1,6 @@
 
  libre-design
-![test screenshot](http://blog.dakarlug.org/media/04juin11/libredesign.png "")
+[![alt](https://github.com/Dakarlug/scrapper/libredesign.png "")](https://github.com/Dakarlug/scrapper/libredesign.pdf)
     
       Dakar — 4 juin 2011, 9h à 18h — Logiciels libres et Arts numériques
 
@@ -26,9 +26,9 @@ Présentation :
 
 	
 Atelier :
-* Gimp : Retouchez,traitez,montez vos image
+* Gimp : Retouchez,traitez,montez vos reddit.png
 * Python & SVG : Crée vos propres script
-* Rawstudio : Manipuler vos images RAW
+* Rawstudio : Manipuler vos google_002.pngs RAW
 * Blender : A la découverte du monde virtuel
 * Inkscape : Créer vos propres pattern
 * MyPaint : Opensource painting

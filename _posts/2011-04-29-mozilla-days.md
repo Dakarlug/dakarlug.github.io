@@ -1,6 +1,6 @@
 
  Mozilla Days
-![test screenshot](http://blog.dakarlug.org/media/30avril11/fx4.png "")
+[![alt](https://github.com/Dakarlug/scrapper/fx4.png "")](https://github.com/Dakarlug/scrapper/pdf)
     
       (télécharger l’image)
 

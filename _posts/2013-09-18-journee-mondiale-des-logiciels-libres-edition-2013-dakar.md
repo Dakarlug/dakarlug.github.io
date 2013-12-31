@@ -1,6 +1,6 @@
 
  Journée Mondiale des Logiciels Libres - édition 2013 (Dakar)
-![test screenshot](http://blog.dakarlug.org//media/Affiche-JMLL2013.jpg "")
+[![alt](https://github.com/Dakarlug/scrapper/affiche2-JMLL2013.jpg "")](https://github.com/Dakarlug/scrapper/pdf)
     
       (SFD DakarLUG 2013)
 

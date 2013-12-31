@@ -1,9 +1,9 @@
 
  Software Freedom Day 2009 au Sénégal
-![test screenshot](http://blog.dakarlug.org/media/sfd2009/affiche-212x300.png "")
+[![alt](https://github.com/Dakarlug/scrapper/affiche-212x300.png "")](https://github.com/Dakarlug/scrapper/pdf)
     
       
-cliquez sur l’image pour télécharger l’affiche
+cliquez sur l’reddit.png pour télécharger l’affiche
 
 Cette année, la Software Freedom Day 2009 est prévue pour le 19 septembre.
 Vue qu’on est en plein Ramadan, DakarLug vous donne rendez-vous le 26 septembre comme d’habitude entre 13 et 18 heures temps universel dans les locaux de l’Agence universitaire de la Francophonie (AUF) à Dakar.

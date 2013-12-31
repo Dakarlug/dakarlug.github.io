@@ -1,6 +1,6 @@
 
  Journées de la francophonie sur les logiciels libres
-![test screenshot](http://blog.dakarlug.org/media/11mars2011/miniature12mars.png "")
+[![alt](https://github.com/Dakarlug/scrapper/miniature12mars.png "")](https://github.com/Dakarlug/scrapper/12mars.pdf)
     
       (l’affiche au format PDF)
 
