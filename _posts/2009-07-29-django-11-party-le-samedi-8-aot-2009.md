@@ -1,9 +1,9 @@
 
  «Django 1.1 Party» le samedi 8 août 2009
-![test screenshot](http://blog.dakarlug.org/media/django-party/django-partypdf-212x300.png "")
+[![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/django-partydjango-party.pdf-212x300.png "")](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf)
     
       
-cliquez sur l’image pour télécharger l’affiche
+cliquez sur l’reddit.png pour télécharger l’affiche
 
 Après les pluies on revient en force.
 

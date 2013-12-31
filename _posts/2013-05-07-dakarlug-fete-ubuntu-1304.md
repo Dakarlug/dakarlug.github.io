@@ -1,6 +1,6 @@
 
  DakarLUG fête Ubuntu 13.04
-[![alt](https://github.com/Dakarlug/scrapper/page1-299px-Flyer_Install_Party_DakarLUG_-_Mai_2013.Flyer_Install_Party_DakarLUG_-_Mai_2013.pdf.jpg "")](https://github.com/Dakarlug/scrapper/pdf)
+[![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/page1-299px-Flyer_Install_Party_DakarLUG_-_Mai_2013.Flyer_Install_Party_DakarLUG_-_Mai_2013.pdf.jpg "")](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf)
     
       (l’affiche au format PDF)
 

@@ -1,6 +1,6 @@
 
  Python African Tour Sénégal : la fin du tunnel !
-![test screenshot](image "")
+[![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/reddit.png "")](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf)
     
       La semaine « Python African Tour Sénégal
 » s’achève ce vendredi 10 juillet, et on peut déjà dire que c’est un

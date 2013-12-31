@@ -1,6 +1,6 @@
 
  « Après-midi Linux » le 9 janvier 2010 à l'ESMT
-![test screenshot](http://blog.dakarlug.org/media/9janvier2010/affiche9jan2010.png "")
+[![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/affiche9jan2010.png "")](https://raw.github.com/Dakarlug/site-datas/master/datas/9janvier2010.pdf)
     
       Cliquez sur l’affichepour l’obtenir en format PDF
 

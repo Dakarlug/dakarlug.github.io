@@ -1,6 +1,6 @@
 
  Rencontre autour du Libre avec ModLibre : Conférence et ateliers
-[![alt](https://github.com/Dakarlug/scrapper/page1-339px-Affiche_Conference_et_atelier_DakarLUG_avec_jean_Thiery_8-juin-2013.Affiche_Conference_et_atelier_DakarLUG_avec_jean_Thiery_8-juin-2013.pdf.jpg "")](https://github.com/Dakarlug/scrapper/pdf)
+[![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/page1-339px-Affiche_Conference_et_atelier_DakarLUG_avec_jean_Thiery_8-juin-2013.Affiche_Conference_et_atelier_DakarLUG_avec_jean_Thiery_8-juin-2013.pdf.jpg "")](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf)
     
       (l’affiche au format PDF)
 

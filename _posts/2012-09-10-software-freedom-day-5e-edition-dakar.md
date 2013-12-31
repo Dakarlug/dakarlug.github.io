@@ -1,6 +1,6 @@
 
  Software Freedom Day, 5e édition à Dakar
-[![alt](https://github.com/Dakarlug/scrapper/banner1-UTC+0-fr.png "")](https://github.com/Dakarlug/scrapper/pdf)
+[![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/banner1-UTC+0-fr.png "")](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf)
     
       
 La journée mondiale des logiciels libres (Software Freedom Day) est une célébration dans le monde du logiciel libre et Open Source (FOSS). Son objectif est d’informer et d’éduquer le public dans le monde entier au sujet des avantages de l’utilisation de logiciels libres dans tous les sphères de l’économie et de la société. Cette année 2012, elle se déroulera le 15 septembre prochain, et ceci dans la plupart des grandes villes à travers le monde.

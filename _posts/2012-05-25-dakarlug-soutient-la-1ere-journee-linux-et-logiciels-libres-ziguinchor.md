@@ -1,6 +1,6 @@
 
  DakarLUG soutient la 1ère journée Linux et Logiciels Libres à Ziguinchor
-[![alt](https://github.com/Dakarlug/scrapper/JLL-Zig-v2-page1.jpeg "")](https://github.com/Dakarlug/scrapper/JLL-Zig-v2.JLL-Zig-v2.pdf)
+[![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/JLL-Zig-v2-page1.jpeg "")](https://raw.github.com/Dakarlug/site-datas/master/datas/JLL-Zig-v2.JLL-Zig-v2.pdf)
     
       
 Le samedi 02 juin 2012 sera l’occasion pour l’Université de Ziguinchor de goûter à sa première édition de la journée Linux et logiciels libres. Pour les organisateurs cette journée devra permettre :

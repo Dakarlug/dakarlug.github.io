@@ -1,6 +1,6 @@
 
  Après-midi Linux le 17 janvier 2009
-[![alt](https://github.com/Dakarlug/scrapper/apremlinux.png "")](https://github.com/Dakarlug/scrapper/apremlinux.pdf)
+[![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/apremlinux.png "")](https://raw.github.com/Dakarlug/site-datas/master/datas/apremlinux.pdf)
     
       DakarLUG organise ce samedi 17 janvier 2009 une « Après-midi Linux et Logiciels Libres ». Au programme :Optimiser ses recherches sur le WebLes outils de base indispensables, les trouver, les adopterGérer les pilotes de périphériques (drivers) sous LinuxDécouvrir le langage de programmation Pythonet bien sûr, installer ou mettre à jour Ubuntu Linux sur sa machine !La manifestation se déroulera dans les locaux dakarois de l’Agence universitaire de la Francophonie,
 de 13h à 18h. Ces locaux sont situés sur le campus de l’UCAD de Dakar,

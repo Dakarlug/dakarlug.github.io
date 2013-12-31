@@ -1,6 +1,6 @@
 
  Bilan après-midi linux 29/01/11
-![test screenshot](image "")
+[![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/reddit.png "")](https://raw.github.com/Dakarlug/site-datas/master/datas/asterisk.pdf)
     
        Comme annoncé le DakarLUG a tenu sa première manifestation de l’année 2011. Et remercie les présentateurs pour:
 
