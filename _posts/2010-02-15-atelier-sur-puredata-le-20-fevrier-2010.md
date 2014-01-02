@@ -1,6 +1,6 @@
 
  Atelier sur «PureData» le 20 février 2010
-[![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/TC.jpg "")](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf)
+* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/TC.jpg "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf "").
     
       
 

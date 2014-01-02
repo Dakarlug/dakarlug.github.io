@@ -1,6 +1,6 @@
 
  Mozilla Days
-[![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/fx4.png "")](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf)
+* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/fx4.png "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf "").
     
       (télécharger l’image)
 

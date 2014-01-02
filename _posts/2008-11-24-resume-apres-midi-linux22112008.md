@@ -1,6 +1,6 @@
 
  Resumé de l’après-midi Linux du 22 novembre 2008
-[![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/p1000861-150x150.jpg "")](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf)
+* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/p1000861-150x150.jpg "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf "").
     
       L’Install party, qui s’est tenue à l’Agence universitaire de la Francophonie(AUF), samedi le 22 novembre 2008,
 a réuni plus d’une cinquantaine de personnes issues de divers milieux :

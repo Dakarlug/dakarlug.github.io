@@ -1,6 +1,6 @@
 
  Coding Party - Juillet 2011
-[![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/coding.png "")](https://raw.github.com/Dakarlug/site-datas/master/datas/coding.pdf)
+* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/coding.png "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/coding.pdf "").
     
       Dakar — 09 juillet 2011, 13h à 18h — Coding Party
 

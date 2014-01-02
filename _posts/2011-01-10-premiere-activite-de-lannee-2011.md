@@ -1,6 +1,6 @@
 
  Première activité de l'année 2011 
-[![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/29janv11.png "")](https://raw.github.com/Dakarlug/site-datas/master/datas/29janv11.pdf)
+* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/29janv11.png "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/29janv11.pdf "").
     
       Cliquez sur l’affichepour l’obtenir en format PDF
 

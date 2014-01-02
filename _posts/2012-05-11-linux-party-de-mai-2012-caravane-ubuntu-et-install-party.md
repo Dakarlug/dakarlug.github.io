@@ -1,6 +1,6 @@
 
  Linux Party de mai 2012 : Caravane Ubuntu et Install Party
-[![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/12mai2012-caravane-ubuntu.png "")](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf)
+* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/12mai2012-caravane-ubuntu.png "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf "").
     
       
 

@@ -1,6 +1,6 @@
 
  Conférence Python mercredi 8 juillet 10h à l’ESP/UCAD
-[![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/reddit.png "")](https://raw.github.com/Dakarlug/site-datas/master/datas/affiche-barcamp.pdf)
+* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/reddit.png "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/affiche-barcamp.pdf "").
     
       Dans le cadre du Python African Tour,
 et afin de faire découvrir les technologies Python au plus grand

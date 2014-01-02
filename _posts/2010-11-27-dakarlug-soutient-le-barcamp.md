@@ -1,6 +1,6 @@
 
  Dakarlug soutient le barcamp
-[![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/barcamp212x150.jpg "")](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf)
+* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/barcamp212x150.jpg "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf "").
     
       Cliquez sur l’affichepour l’obtenir en format JPEG
 

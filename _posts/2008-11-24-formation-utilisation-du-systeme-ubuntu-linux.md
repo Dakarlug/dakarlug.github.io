@@ -1,6 +1,6 @@
 
  Formation utilisation du système Ubuntu Linux
-[![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/affiche_formation_ubuntu-page1-150x150.png "")](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf)
+* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/affiche_formation_ubuntu-page1-150x150.png "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf "").
     
       Quelques jours après l’install party à l’Agence universitaire de la
 Francophonie, on a decidé de faire une formation d’utilisation des
