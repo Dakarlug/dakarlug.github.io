@@ -45,59 +45,37 @@
 
   <body>
 <style>
-#map {
-    border: 5px solid #F0F0F0;
-    height: 180px;
-    width: 90%;
-}
-
-.lanyrd {
-    background: url("http://dakarlug.github.io/images/lanyrd.png") no-repeat scroll 0 50% transparent;
-    float: left;
-    margin-right: 14px;
-    padding-left: 26px;
-}
-
 #galleria{height:320px;}
 </style>
+
 <a href="https://github.com/Dakarlug/dakarlug.github.io">
 <img alt="Fork me on GitHub" src="http://dakarlug.github.io/images/forkme_right_gray_6d6d6d.png" style="position: absolute; top: 0; right: 0; border: 0;">
 </a>
-    <div class="row">
 
-      <div class="masthead">
-        <ul class="nav nav-pills pull-right">
-          <li class="active"><a href="/">Accueil</a></li>
-          <li><a href="https://github.com/Dakarlug/dakarlug.github.io/blob/master/README.md">À propos</a></li>
-        </ul>
-        <h3 class="muted">blog.dakarlug.org</h3>
+
+<!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+      <div class="container">
+	  <div class="span8">
+        	<h1>Hello, world!</h1>
+        	<p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+        	<p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
+        </div>
+        <div class="span4">
+        	<p><img src = "http://dakarlug.github.io/images/logo.png" /></p>
+	  </div>
       </div>
+    </div>
 
-      <hr>
-
+    <div class="container">
+      <!-- Example row of columns -->
       <div class="row">
-        <p><img src = "http://dakarlug.github.io/images/logo.png" /></p>
-        <p class="lead">Un groupe de personnes qui vivent à Dakar, qui utilisent Linux ou d'autres logiciels libres et qui se retrouvent de temps en temps pour discuter politique internationale et manger des pizzas!!</p>
-        <!-- a class="btn btn-large btn-success" href="#">Sign up today</a -->
-      </div>
-
-      <hr>	
-	<div class="row">
-          <div class="span6">
-               <ul>
-                  <li class="lanyrd"  ><a href ="http://lanyrd.com/2013/dakarnug/"><h2>Lanyrd</h2></a></li>
-                  <li class="lanyrd"  ><a href ="http://lanyrd.com/2013/dakarnug/"><h2>Calendrier</h2></a></li>
-               </ul>
-          </div>
-	   <div class="span6">
-	  	<ul>
-		<li class="lanyrd"  ><a href ="https://www.eventbrite.com/event/7951484103"><h2>EventBrite</h2></a></li>
-		<li class="lanyrd"  ><a href ="https://plus.google.com/103738835725188945912/posts"><h2>Google+</h2></a></li>
-	     </ul>
-          </div>
-      </div>
-      <div class="row">
-            <div class="span6">
+         <div class="row">
+           
+            <div class="span8">
+	  	{{ content }}
+            </div>
+		 <div class="span4">
                     <div>
                     <a class="twitter-timeline"  href="https://twitter.com/dakarlug"  data-widget-id="372696566949093376">Tweets by @dakarlug</a>
                            
@@ -109,22 +87,17 @@
                     
                     </div>           
               </div>
-            <div class="span6">
-	  	{{ content }}
-            </div>
-        </div>
-      <div class="row-fluid marketing">
-	  <div class="span6">
-	  	&nbsp;
-          </div>
-      </div>
 
+        </div>
 
       <hr>
-      <div class="footer">
-        <p>&copy; DakarLUG - Dakar Linux User Group 2008 - 2013</p>
-      </div>
+
+      <footer>
+        <p>&copy; Company 2013</p>
+      </footer>
     </div> <!-- /container -->
+
+ <!-- /container -->
 
     <!-- Le javascript
     ================================================== -->
