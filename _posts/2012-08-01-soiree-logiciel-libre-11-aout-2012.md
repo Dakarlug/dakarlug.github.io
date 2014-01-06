@@ -1,6 +1,6 @@
 
  Soirée logiciel libre le 11 août 2012 !
-* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/reddit.png "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf "").
+* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/image "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf "").
     
       Le samedi 11 août 2012 à partir de 17:30 à l’AUF, soirée Ndogou (== rupture du jeûn pour ceux qui jeûnent) avec des présentations, chacun parle de ce qu’il veut à partir de 17h30 et on ne s’arrêtera pas tant qu’il y aura des présentateurs ! On fait un petit break entre 19h30 et 20h30 pour la rupture et ensuite on continue jusqu’à pas d’heure… jusqu’au bout de la nuit !?
 

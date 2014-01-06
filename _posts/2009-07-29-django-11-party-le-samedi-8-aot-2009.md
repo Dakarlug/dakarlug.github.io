@@ -3,7 +3,7 @@
 * ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/django-partydjango-party.pdf-212x300.png "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf "").
     
       
-cliquez sur l’reddit.png pour télécharger l’affiche
+cliquez sur l’image pour télécharger l’affiche
 
 Après les pluies on revient en force.
 

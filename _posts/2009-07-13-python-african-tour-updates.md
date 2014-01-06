@@ -1,6 +1,6 @@
 
  Python African Tour: updates
-* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/reddit.png "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf "").
+* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/image "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf "").
     
       Salut à tous
 

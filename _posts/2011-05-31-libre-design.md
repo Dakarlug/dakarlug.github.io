@@ -26,9 +26,9 @@ Présentation :
 
 	
 Atelier :
-* Gimp : Retouchez,traitez,montez vos reddit.png
+* Gimp : Retouchez,traitez,montez vos image
 * Python & SVG : Crée vos propres script
-* Rawstudio : Manipuler vos google_002.pngs RAW
+* Rawstudio : Manipuler vos images RAW
 * Blender : A la découverte du monde virtuel
 * Inkscape : Créer vos propres pattern
 * MyPaint : Opensource painting

@@ -1,6 +1,6 @@
 
  Résumé Ubuntu Install Party du 13.06.2009
-* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/reddit.png "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf "").
+* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/image "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf "").
     
       Salut à tousAlors les statistiques et les conclusions et l’install party dernier  13 nouvelles machines passées sou Ubuntu Linux. Pour nous c’est
 toujours une bonne nouvelle quelque soit le nombre de machines

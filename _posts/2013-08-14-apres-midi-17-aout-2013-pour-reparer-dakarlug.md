@@ -1,6 +1,6 @@
 
  L'après-midi du 17 août pour réparer DakarLUG
-* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/reddit.png "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf "").
+* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/image "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf "").
     
       
 Après quelques semaines de bogues, le site web et la liste de discussion de dakarlug.org remarchent un peu ces derniers temps… Mais le mode d’hébergement actuel semble avoir fait son temps.

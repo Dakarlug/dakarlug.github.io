@@ -1,6 +1,6 @@
 
  Python Party: résumé
-* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/reddit.png "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/python_fr.pdf "").
+* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/image "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/python_fr.pdf "").
     
       Alors après la python party de samedi dernier je fais un petit résumé.Langage complètement different de ce qu’on aconnu avant(C/C++, Java,
 PHP, Windev, etc). Les “batteries incluses” de python ont surpris tout

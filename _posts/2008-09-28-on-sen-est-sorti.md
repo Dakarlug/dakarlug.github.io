@@ -1,6 +1,6 @@
 
  On s'en est sorti...
-* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/reddit.png "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf "").
+* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/image "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf "").
     
       On s’en est sorti… mais on a vu mieux ! Nos
 excuses pour le 20 septembre, l’organisation n’était pas vraiment au

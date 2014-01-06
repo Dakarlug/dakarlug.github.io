@@ -1,6 +1,6 @@
 
  Séance de prise en main d’Ubuntu
-* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/reddit.png "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf "").
+* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/image "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf "").
     
       Ce jeudi 29 janvier 2009, de 15h à 18h, à
 l’Agence universitaire de la Francophonie, aura lieu une petite séance

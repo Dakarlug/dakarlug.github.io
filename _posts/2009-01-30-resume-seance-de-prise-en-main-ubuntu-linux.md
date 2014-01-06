@@ -1,6 +1,6 @@
 
  Petit bilan des séances de prise en main Ubuntu
-* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/reddit.png "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf "").
+* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/image "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf "").
     
       29 janvier : avec 6
 personnes on a découvert l’univers du libre avec le système Ubuntu

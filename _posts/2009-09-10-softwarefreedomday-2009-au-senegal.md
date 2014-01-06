@@ -3,7 +3,7 @@
 * ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/affiche-212x300.png "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf "").
     
       
-cliquez sur l’reddit.png pour télécharger l’affiche
+cliquez sur l’image pour télécharger l’affiche
 
 Cette année, la Software Freedom Day 2009 est prévue pour le 19 septembre.
 Vue qu’on est en plein Ramadan, DakarLug vous donne rendez-vous le 26 septembre comme d’habitude entre 13 et 18 heures temps universel dans les locaux de l’Agence universitaire de la Francophonie (AUF) à Dakar.
