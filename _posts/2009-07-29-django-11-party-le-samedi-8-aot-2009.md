@@ -1,6 +1,6 @@
 
  «Django 1.1 Party» le samedi 8 août 2009
-* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/django-partydjango-party.pdf-212x300.png "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf "").
+* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/django-partypdf-212x300.png "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/django-party.pdf "").
     
       
 cliquez sur l’image pour télécharger l’affiche

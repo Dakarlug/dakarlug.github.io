@@ -1,6 +1,6 @@
 
  Après-midi Linux et Logiciels Libres
-* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/affiche_19-03-2009affiche_19-03-2009.pdf.png "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf "").
+* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/affiche_19-03-2009pdf.png "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/affiche_19-03-2009.pdf "").
     
       (l’affiche au format PDF)
 

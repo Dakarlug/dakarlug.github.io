@@ -1,6 +1,6 @@
 
  Journée Linux et Logiciels Libres
-* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/affiche_26-02-2009affiche_26-02-2009.pdf.png "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/pdf "").
+* ![alt](https://raw.github.com/Dakarlug/site-datas/master/datas/affiche_26-02-2009pdf.png "") .*  [Telecharger l'affiche](https://raw.github.com/Dakarlug/site-datas/master/datas/affiche_26-02-2009.pdf "").
     
       DakarLUG, en parteneriat avec le Centre de calcul de l’Université
 Cheikh Anta Diop et l’Institut de Recherche pour le Développement,
